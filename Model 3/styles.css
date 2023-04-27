@@ -385,6 +385,7 @@ aside button.close {
         text-align: center;
         position: relative;
         top: 35vh; 
+        z-index: 999;
     }
     
     
