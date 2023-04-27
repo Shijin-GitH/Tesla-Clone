@@ -16,7 +16,7 @@ window.onload=function(){
     const faders = document.querySelectorAll('.anim')
     
     const appearOptions = {
-        threshold: 1,
+        threshold: 0.75,
         rootMargin: "0px 0px -100px 0px"
     };
     const appearOnScoll = new IntersectionObserver(
