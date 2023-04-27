@@ -304,4 +304,14 @@ aside button.close {
         color: black;
     }
 
+    .logo {
+        position: relative;
+        top: 5vh;
+    }
+
+    #Menu {
+        position: relative;
+        top: -0.5vh;
+    }
+
 }
